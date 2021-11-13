@@ -1,7 +1,7 @@
 # OSINT_Articles
 Collection of OSINT articles to get you started in understanding OSINT techniques.
 
-These articles have been shared between the OSINT Team community, you can find us on keybase for more.
+These articles have been selected because they stand as an example of how researchers use OSINT techniques to conduct online investigations. 
 
 ### Social Media
 - [OSINT Investigations On Tumblr](https://www.secjuice.com/tumblr-osint/)
