@@ -61,3 +61,4 @@ These articles have been selected because they stand as an example of how resear
 - [Keeping a Grip on GoogleID’s](https://medium.com/week-in-osint/keeping-a-grip-on-googleids-506814ae098b)
 - [Translation — Finding data within indexed translations](https://medium.com/@osint/translation-finding-data-within-indexed-translations-49c0e1a0c1d6)
 - [How to find the documents behind big legal cases](https://www.theverge.com/22559021/recap-courtlistener-free-law-project-find-legal-filings-how-to)
+- [Using the WIPO IP Portal for OSINT](https://keyfindings.blog/2020/05/03/using-the-wipo-ip-portal-for-osint/)
