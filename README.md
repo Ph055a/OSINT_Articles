@@ -23,7 +23,8 @@ These articles have been shared between the OSINT Team community, you can find u
 - [A practical guide to de-anonymizing hidden services.](https://chaos.institute/deanonymizing-hidden-services-guide/)
 - [Conducting OSINT on LinkedIn the Right Way](https://medium.com/ax1al/the-unconventional-guide-to-conducting-osint-on-linkedin-c9631b27935d)
 - [Social Media Search Strategies](https://lorandbodo.com/blog/social-media-search-strategies)
-
+- [Account Knocking For Fun and OSINT](https://www.secjuice.com/account-recovery-osint/)
+- [How to recognize fake AI-generated images](https://kcimc.medium.com/how-to-recognize-fake-ai-generated-images-4d1f6f9a2842)
 
 ### Geo-Location
 - [Leveraging Street Art in OSINT Investigations](https://www.secjuice.com/street-art-in-osint-investigations/)
@@ -31,7 +32,7 @@ These articles have been shared between the OSINT Team community, you can find u
 - [Geolocating Mobile Phones based on IPs](https://keyfindings.blog/2020/07/05/geolocating-mobiles-phones-based-on-ips/amp/)
 - [Geospatial awareness: how to add geodata to Google Earth Pro & four datasets you should try](https://benjaminstrick.com/geospatial-awareness-how-to-add-data-to-google-earth/)
 - [Using the Sun and the Shadows for Geolocation](https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/)
-
+- [Maritime OSINT: Port Analysis](https://wondersmithrae.medium.com/maritime-osint-port-analysis-d09b4531728d)
 
 ### Darkweb / Threat Intelligence
 - [Darknet diving – conducting OSINT on .onion sites](https://www.osintme.com/index.php/2019/11/24/darknet-diving-conducting-osint-on-onion-sites/)
@@ -40,20 +41,18 @@ These articles have been shared between the OSINT Team community, you can find u
 - [Cyber Intelligence: HUMINT Operations](https://bank-security.medium.com/cyber-intelligence-humint-operations-2d3d526e4007)
 - [Tracking Down REvil’s “Lalartu” by utilizing multiple OSINT methods](https://underthebreach.medium.com/tracking-down-revils-lalartu-by-utilizing-multiple-osint-methods-2bf3a6c65a80)
 
-### Phone & Email
+### Phone / Email
 - [OSINT: How To Research & Investigate U.S. Phone Numbers](https://www.secjuice.com/osint-how-to-investigate-us-phone-number/)
 - [Phone numbers investigation, the open source way](https://www.secjuice.com/phone-numbers-investigation-the-open-source-way/)
 
-
-### Other
-- [A Beginner’s Guide to OSINT Investigation with Maltego](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)
-- [How to recognize fake AI-generated images](https://kcimc.medium.com/how-to-recognize-fake-ai-generated-images-4d1f6f9a2842)
-- [Mastering Google Search Operators in 67 Easy Steps](https://moz.com/blog/mastering-google-search-operators-in-67-steps)
+### Cars / Plans / Ships
+- [Car Spotting and OSINT](https://keyfindings.blog/2019/12/07/car-spotting-and-osint/)
 - [Planespotting: A Guide to Tracking Aircraft Around the World](https://gijn.org/flight-tracking/)
 - [OSINT on the Ocean: Maritime Intelligence Gathering Techniques](https://wondersmithrae.medium.com/osint-on-the-ocean-maritime-intelligence-gathering-techniques-2ee39e554fe1)
-- [Account Knocking For Fun and OSINT](https://www.secjuice.com/account-recovery-osint/)
-- [Maritime OSINT: Port Analysis](https://wondersmithrae.medium.com/maritime-osint-port-analysis-d09b4531728d)
-- [Car Spotting and OSINT](https://keyfindings.blog/2019/12/07/car-spotting-and-osint/)
+- 
+### Other
+- [A Beginner’s Guide to OSINT Investigation with Maltego](https://wondersmithrae.medium.com/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)
+- [Mastering Google Search Operators in 67 Easy Steps](https://moz.com/blog/mastering-google-search-operators-in-67-steps)
 - [The Importance of Geopolitics in OSINT](https://cassiusxiii.medium.com/the-importance-of-geopolitics-in-osint-d94a57c32ac4)
 - [How To Perform an OSINT Company Assessment — Part 1](https://cassiusxiii.medium.com/how-to-perform-an-osint-company-assessment-part-1-7d2cbc08a256)
 - [How To Perform an OSINT Company Assessment — Part 2](https://cassiusxiii.medium.com/how-to-perform-an-osint-company-assessment-part-2-b86b5e9c8528)
